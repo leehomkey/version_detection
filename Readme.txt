@@ -1,3 +1,4 @@
+地址：https://github.com/leehomkey/version_detection
 一、结构：
 ---main.py                     ###入口，每天9点定时执行
 ------windows_detection.py     ###windows终端相关系统、软件版本爬取解析实现（其他端可参考复用）
